@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name         = 'PhotonManager'
-s.version      = "0.0.4"
+s.version      = "0.0.5"
 s.summary      = 'you need my help because you love me'
 s.description  = <<-DESC
 you need my help because you love me cddd
@@ -9,7 +9,7 @@ DESC
 s.homepage     = 'https://github.com/liutaoliutao/PhotonManager'
 s.license = 'MIT'
 s.author             = { "刘陶的mini" => "282325620@qq.com" }
-s.source       = { :git => "https://github.com/liutaoliutao/PhotonManager.git", :tag => "0.0.4" }
+s.source       = { :git => "https://github.com/liutaoliutao/PhotonManager.git", :tag => "0.0.5" }
 s.source_files  =  "PhotonManager","PhotonManager/**/*{h,m}"
 s.vendored_libraries =
 'PhotonManager/Common-cpp/lib/libCommon-cpp_debug_cpp98_iphoneos.a',

@@ -12,8 +12,8 @@
 #else
 #	include <malloc.h>
 #endif
-#include "Internal/Entry.h"
-#include "Internal/RawStorage.h"
+#include "Entry.h"
+#include "RawStorage.h"
 
 namespace ExitGames
 {

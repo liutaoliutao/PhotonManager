@@ -9,7 +9,7 @@
 #include <limits.h>
 #include "Spinlock.h"
 #include "AllocatorInterface.h"
-#include "Internal/MemoryPool.h"
+#include "MemoryPool.h"
 
 #if defined _EG_MARMALADE_PLATFORM && (defined EG_DEBUGGER || !defined _EG_MS_COMPILER) && defined I3D_ARCH_X86
 #	define EG_DEACTIVATE_MEMORY_MANAGER
