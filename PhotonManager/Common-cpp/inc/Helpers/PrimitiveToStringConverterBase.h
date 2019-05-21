@@ -9,7 +9,7 @@
 #include "JString.h"
 #include "ElementAccessor.h"
 #include "IsDerivedFrom.h"
-#include "SmartPointers/SmartPointerBase.h"
+#include "SmartPointerBase.h"
 
 namespace ExitGames
 {

@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "SmartPointers/UniquePointerBase.h"
+#include "UniquePointerBase.h"
 
 namespace ExitGames
 {

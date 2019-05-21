@@ -15,7 +15,7 @@
 #include "DeSerializer.h"
 #include "EnableIf.h"
 #include "Lockguard.h"
-#include "SmartPointers/SharedPointer.h"
-#include "SmartPointers/UniquePointer.h"
+#include "SharedPointer.h"
+#include "UniquePointer.h"
 
 /** @file */

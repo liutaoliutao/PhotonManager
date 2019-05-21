@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "MemoryManagement/Allocate.h"
+#include "Allocate.h"
 
 namespace ExitGames
 {

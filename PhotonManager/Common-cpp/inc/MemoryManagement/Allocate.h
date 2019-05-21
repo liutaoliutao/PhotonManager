@@ -7,7 +7,7 @@
 #pragma once
 
 #include <new>
-#include "MemoryManagement/Internal/Interface.h"
+#include "Internal/Interface.h"
 
 #if defined _EG_WINDOWS_PLATFORM || defined _EG_WINDOWSSTORE_PLATFORM || defined _EG_XB1_PLATFORM
 #	pragma push_macro("new")

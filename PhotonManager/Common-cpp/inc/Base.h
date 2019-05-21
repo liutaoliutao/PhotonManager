@@ -7,7 +7,7 @@
 #pragma once
 
 #include "Logger.h"
-#include "MemoryManagement/Allocate.h"
+#include "Allocate.h"
 
 namespace ExitGames
 {
