@@ -7,8 +7,8 @@
 #pragma once
 
 #include <limits.h>
-#include "Common-cpp/inc/Base.h"
-#include "Common-cpp/inc/Helpers/CustomTypeCallbackWrapper.h"
+#include "Base.h"
+#include "CustomTypeCallbackWrapper.h"
 
 class EGCustomTypeCallbackWrapper;
 

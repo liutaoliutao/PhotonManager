@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/RemovePointer.h"
+#include "RemovePointer.h"
 
 namespace ExitGames
 {

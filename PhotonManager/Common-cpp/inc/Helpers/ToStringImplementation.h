@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/ObjectToStringConverter.h"
-#include "Common-cpp/inc/Helpers/PrimitiveToStringConverter.h"
+#include "ObjectToStringConverter.h"
+#include "PrimitiveToStringConverter.h"
 
 namespace ExitGames
 {

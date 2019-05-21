@@ -6,8 +6,8 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGBaseListener.h"
-#import "Common-objc/inc/NSString+UTF32.h"
+#import "EGBaseListener.h"
+#import "NSString+UTF32.h"
 
 @interface EGLogger : NSObject
 

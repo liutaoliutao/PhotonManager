@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/TypeName.h"
-#include "Common-cpp/inc/Enums/DebugLevel.h"
+#include "TypeName.h"
+#include "DebugLevel.h"
 
 namespace ExitGames
 {

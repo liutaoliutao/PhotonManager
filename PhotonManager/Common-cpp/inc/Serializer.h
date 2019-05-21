@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/SerializerImplementation.h"
+#include "SerializerImplementation.h"
 
 namespace ExitGames
 {

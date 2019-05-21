@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/TrafficStatsGameLevel.h"
-#import "Photon-objc/inc/EGTrafficStatsGameLevel.h"
+#include "TrafficStatsGameLevel.h"
+#import "EGTrafficStatsGameLevel.h"
 
 @interface EGTrafficStatsGameLevel ()
 

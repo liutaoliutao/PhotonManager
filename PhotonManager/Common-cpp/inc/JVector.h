@@ -6,10 +6,10 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Base.h"
-#include "Common-cpp/inc/Helpers/IsDerivedFrom.h"
-#include "Common-cpp/inc/Helpers/IsPrimitiveType.h"
-#include "Common-cpp/inc/Helpers/ToStringImplementation.h"
+#include "Base.h"
+#include "IsDerivedFrom.h"
+#include "IsPrimitiveType.h"
+#include "ToStringImplementation.h"
 #include <memory>
 
 namespace ExitGames

@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Base.h"
+#include "Base.h"
 
 #ifdef EG_PLATFORM_SUPPORTS_MOVE_SEMANTICS
 

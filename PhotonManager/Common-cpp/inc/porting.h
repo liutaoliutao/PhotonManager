@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/defines.h"
+#include "defines.h"
 
 #if defined _EG_WINDOWS_PLATFORM || defined _EG_WINDOWSSTORE_PLATFORM || defined _EG_XB1_PLATFORM
 #	include <process.h>

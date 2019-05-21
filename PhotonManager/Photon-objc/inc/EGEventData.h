@@ -6,7 +6,7 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGDictionary.h"
+#import "EGDictionary.h"
 
 @interface EGEventData : NSObject
 

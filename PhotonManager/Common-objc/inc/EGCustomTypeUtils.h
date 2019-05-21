@@ -6,9 +6,9 @@
 
 #pragma once
 
-#include "Common-cpp/inc/defines.h"
-#import "Common-objc/inc/EGBase.h"
-#import "Common-objc/inc/EGCustomType.h"
+#include "defines.h"
+#import "EGBase.h"
+#import "EGCustomType.h"
 
 @interface EGCustomTypeUtils : EGBase
 {

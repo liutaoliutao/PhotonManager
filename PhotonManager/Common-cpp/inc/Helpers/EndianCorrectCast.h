@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/EndianCorrectCastImplementation.h"
+#include "EndianCorrectCastImplementation.h"
 
 namespace ExitGames
 {

@@ -6,8 +6,8 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGArray.h"
-#import "Common-objc/inc/EGDictionary.h"
+#import "EGArray.h"
+#import "EGDictionary.h"
 
 @interface EGOperationRequest : NSObject
 

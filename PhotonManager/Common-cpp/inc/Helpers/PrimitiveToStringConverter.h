@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/PrimitiveToStringConverterBase.h"
+#include "PrimitiveToStringConverterBase.h"
 
 namespace ExitGames
 {

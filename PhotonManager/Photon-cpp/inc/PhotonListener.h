@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/OperationResponse.h"
-#include "Photon-cpp/inc/EventData.h"
+#include "OperationResponse.h"
+#include "EventData.h"
 
 namespace ExitGames
 {

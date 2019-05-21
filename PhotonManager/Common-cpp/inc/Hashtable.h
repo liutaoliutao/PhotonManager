@@ -6,9 +6,9 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/KeyToObject.h"
-#include "Common-cpp/inc/Helpers/ValueToObject.h"
-#include "Common-cpp/inc/JVector.h"
+#include "KeyToObject.h"
+#include "ValueToObject.h"
+#include "JVector.h"
 
 namespace ExitGames
 {

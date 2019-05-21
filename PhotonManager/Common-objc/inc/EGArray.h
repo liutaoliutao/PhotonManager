@@ -39,7 +39,7 @@ type-comparison-behavior:
 #pragma once
 
 #import <Foundation/NSArray.h>
-#include "Common-cpp/inc/defines.h"
+#include "defines.h"
 #import "EGBase.h"
 
 @interface EGArray : NSArray

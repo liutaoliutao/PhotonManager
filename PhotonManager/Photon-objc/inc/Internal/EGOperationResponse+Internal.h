@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/OperationResponse.h"
-#import "Photon-objc/inc/EGOperationResponse.h"
+#include "OperationResponse.h"
+#import "EGOperationResponse.h"
 
 @interface EGOperationResponse ()
 

@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Common.h"
+#include "Common.h"
 
 #if defined _EG_WINDOWSSTORE_PLATFORM || defined _EG_XB1_PLATFORM
 #	define _EG_WEBSOCKET_AVAILABLE

@@ -6,16 +6,16 @@
 
 #pragma once
 
-#include "Common-cpp/inc/porting.h"
-#include "Common-cpp/inc/platformLayer.h"
-#include "Common-cpp/inc/Dictionary.h"
-#include "Common-cpp/inc/ANSIString.h"
-#include "Common-cpp/inc/EGTime.h"
-#include "Common-cpp/inc/Serializer.h"
-#include "Common-cpp/inc/DeSerializer.h"
-#include "Common-cpp/inc/Helpers/EnableIf.h"
-#include "Common-cpp/inc/Helpers/Lockguard.h"
-#include "Common-cpp/inc/Helpers/SmartPointers/SharedPointer.h"
-#include "Common-cpp/inc/Helpers/SmartPointers/UniquePointer.h"
+#include "porting.h"
+#include "platformLayer.h"
+#include "Dictionary.h"
+#include "ANSIString.h"
+#include "EGTime.h"
+#include "Serializer.h"
+#include "DeSerializer.h"
+#include "EnableIf.h"
+#include "Lockguard.h"
+#include "SmartPointers/SharedPointer.h"
+#include "SmartPointers/UniquePointer.h"
 
 /** @file */

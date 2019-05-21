@@ -6,10 +6,10 @@
 
 #pragma once
 
-#include "Common-cpp/inc/DictionaryBase.h"
-#include "Common-cpp/inc/UTF8String.h"
+#include "DictionaryBase.h"
+#include "UTF8String.h"
 #ifdef EG_PLATFORM_SUPPORTS_MOVE_SEMANTICS
-#	include "Common-cpp/inc/Helpers/Data.h"
+#	include "Data.h"
 #endif
 
 namespace ExitGames

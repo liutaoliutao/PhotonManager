@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/defines.h"
-#import "Common-objc/inc/EGToString.h"
+#include "defines.h"
+#import "EGToString.h"
 
 @protocol EGCustomType <NSObject, EGToString>
 

@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/ToString.h"
-#include "Common-cpp/inc/defines.h"
+#include "ToString.h"
+#include "defines.h"
 
 #ifndef EG_NOSTDLIB
 #	include <iostream>

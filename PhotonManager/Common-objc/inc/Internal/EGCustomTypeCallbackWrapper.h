@@ -8,8 +8,8 @@
 
 #import <Foundation/NSData.h>
 #import <Foundation/NSDictionary.h>
-#import "Common-objc/inc/EGCustomType.h"
-#include "Common-cpp/inc/Helpers/CustomTypeCallbackWrapper.h"
+#import "EGCustomType.h"
+#include "CustomTypeCallbackWrapper.h"
 
 class EGCustomTypeCallbackWrapper: public ExitGames::Common::Helpers::CustomTypeCallbackWrapper
 {

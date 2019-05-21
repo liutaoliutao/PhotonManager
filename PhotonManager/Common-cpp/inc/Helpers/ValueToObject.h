@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/ValueObject.h"
+#include "ValueObject.h"
 
 namespace ExitGames
 {

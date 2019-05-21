@@ -6,9 +6,9 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/CompileTimeAssertTrue.h"
-#include "Common-cpp/inc/Object.h"
-#include "Common-cpp/inc/Enums/TypeCode.h"
+#include "CompileTimeAssertTrue.h"
+#include "Object.h"
+#include "TypeCode.h"
 
 namespace ExitGames
 {

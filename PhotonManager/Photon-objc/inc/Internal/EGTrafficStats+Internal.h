@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/TrafficStats.h"
-#import "Photon-objc/inc/EGTrafficStats.h"
+#include "TrafficStats.h"
+#import "EGTrafficStats.h"
 
 @interface EGTrafficStats ()
 

@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/DictionaryBase.h"
-#include "Common-cpp/inc/Helpers/IsSame.h"
+#include "DictionaryBase.h"
+#include "IsSame.h"
 
 namespace ExitGames
 {

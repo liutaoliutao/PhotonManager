@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/ObjectToStringConverterBase.h"
+#include "ObjectToStringConverterBase.h"
 
 namespace ExitGames
 {

@@ -7,7 +7,7 @@
 #pragma once
 
 #import "Foundation/NSString.h"
-#include "Common-cpp/inc/defines.h"
+#include "defines.h"
 
 #ifdef _EG_IPHONE_PLATFORM
 #define IOS_OSX(ios, osx) ios

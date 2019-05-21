@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/BaseCharString.h"
+#include "BaseCharString.h"
 
 namespace ExitGames
 {

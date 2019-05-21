@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/CustomTypeBase.h"
-#include "Common-cpp/inc/CustomTypeFactory.h"
+#include "CustomTypeBase.h"
+#include "CustomTypeFactory.h"
 
 namespace ExitGames
 {

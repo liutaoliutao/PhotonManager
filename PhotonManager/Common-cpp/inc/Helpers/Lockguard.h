@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/Spinlock.h"
+#include "Spinlock.h"
 
 namespace ExitGames
 {

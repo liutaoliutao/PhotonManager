@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Common.h"
+#include "Common.h"
 
 namespace ExitGames
 {

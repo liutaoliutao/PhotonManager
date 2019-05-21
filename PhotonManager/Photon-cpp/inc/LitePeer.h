@@ -6,13 +6,13 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/PhotonPeer.h"
-#include "Photon-cpp/inc/Enums/EventCode.h"
-#include "Photon-cpp/inc/Enums/EventCache.h"
-#include "Photon-cpp/inc/Enums/EventKey.h"
-#include "Photon-cpp/inc/Enums/OperationCode.h"
-#include "Photon-cpp/inc/Enums/ParameterCode.h"
-#include "Photon-cpp/inc/Enums/ReceiverGroup.h"
+#include "PhotonPeer.h"
+#include "EventCode.h"
+#include "EventCache.h"
+#include "EventKey.h"
+#include "OperationCode.h"
+#include "ParameterCode.h"
+#include "ReceiverGroup.h"
 
 class EGObjCLitePeer;
 

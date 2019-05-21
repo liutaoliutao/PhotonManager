@@ -7,7 +7,7 @@
 #pragma once
 
 #import <Foundation/NSString.h>
-#include "Common-cpp/inc/defines.h"
+#include "defines.h"
 
 @interface NSString (UTF32)
 

@@ -6,9 +6,9 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGBaseListener.h"
-#import "Common-objc/inc/EGDefines.h"
-#import "Common-objc/inc/EGToString.h"
+#import "EGBaseListener.h"
+#import "EGDefines.h"
+#import "EGToString.h"
 
 @interface EGBase : NSObject
 

@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/EventData.h"
-#import "Photon-objc/inc/EGEventData.h"
+#include "EventData.h"
+#import "EGEventData.h"
 
 @interface EGEventData (Internal)
 

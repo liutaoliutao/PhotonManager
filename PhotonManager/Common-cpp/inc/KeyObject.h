@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/ConfirmAllowedKey.h"
+#include "ConfirmAllowedKey.h"
 
 namespace ExitGames
 {

@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/KeyObject.h"
+#include "KeyObject.h"
 
 namespace ExitGames
 {

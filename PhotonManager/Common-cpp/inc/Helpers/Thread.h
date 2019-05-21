@@ -6,11 +6,11 @@
 
 #pragma once
 
-#include "Common-cpp/inc/platformLayer.h"
+#include "platformLayer.h"
 #if defined _EG_WINDOWSSTORE_PLATFORM || defined _EG_XB1_PLATFORM || defined _EG_PSVITA_PLATFORM || defined _EG_SWITCH_PLATFORM
 #	include <thread>
 #else
-#	include "Common-cpp/inc/porting.h"
+#	include "porting.h"
 #endif
 
 namespace ExitGames

@@ -6,7 +6,7 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGBase.h"
+#import "EGBase.h"
 
 @class EGLogger;
 

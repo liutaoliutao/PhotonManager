@@ -6,14 +6,14 @@
 
 #pragma once
 
-#include "Common-cpp/inc/defines.h"
+#include "defines.h"
 #if defined _EG_APPLE_PLATFORM || defined _EG_PS3_PLATFORM || defined _EG_PS4_PLATFORM || defined _EG_PSVITA_PLATFORM
 #	include <stdlib.h>
 #else
 #	include <malloc.h>
 #endif
-#include "Common-cpp/inc/MemoryManagement/Internal/Entry.h"
-#include "Common-cpp/inc/MemoryManagement/Internal/RawStorage.h"
+#include "MemoryManagement/Internal/Entry.h"
+#include "MemoryManagement/Internal/RawStorage.h"
 
 namespace ExitGames
 {

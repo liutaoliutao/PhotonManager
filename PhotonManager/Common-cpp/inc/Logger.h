@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/BaseListener.h"
-#include "Common-cpp/inc/LogFormatOptions.h"
+#include "BaseListener.h"
+#include "LogFormatOptions.h"
 
 namespace ExitGames
 {

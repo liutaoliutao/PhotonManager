@@ -6,15 +6,15 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/PhotonListener.h"
-#include "Photon-cpp/inc/OperationRequest.h"
-#include "Photon-cpp/inc/TrafficStats.h"
-#include "Photon-cpp/inc/TrafficStatsGameLevel.h"
-#include "Photon-cpp/inc/Enums/ConnectionProtocol.h"
-#include "Photon-cpp/inc/Enums/ErrorCode.h"
-#include "Photon-cpp/inc/Enums/NetworkPort.h"
-#include "Photon-cpp/inc/Enums/PeerState.h"
-#include "Photon-cpp/inc/Enums/StatusCode.h"
+#include "PhotonListener.h"
+#include "OperationRequest.h"
+#include "TrafficStats.h"
+#include "TrafficStatsGameLevel.h"
+#include "ConnectionProtocol.h"
+#include "ErrorCode.h"
+#include "NetworkPort.h"
+#include "PeerState.h"
+#include "StatusCode.h"
 
 #if defined _EG_WINDOWS_PLATFORM || defined _EG_WINDOWSSTORE_PLATFORM && _MSC_VER >= 1900 || defined _EG_XB1_PLATFORM || defined EG_DOC
 #	define _EG_ENCRYPTOR_AVAILABLE

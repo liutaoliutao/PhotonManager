@@ -6,7 +6,7 @@
 
 #pragma once
 
-#import "Photon-objc/inc/EGPhotonPeer.h"
+#import "EGPhotonPeer.h"
 
 @interface EGLitePeer : EGPhotonPeer
 {

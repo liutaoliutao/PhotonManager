@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Hashtable.h"
+#include "Hashtable.h"
 
 namespace ExitGames
 {

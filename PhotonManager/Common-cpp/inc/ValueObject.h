@@ -6,11 +6,11 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/ArrayLengthType.h"
-#include "Common-cpp/inc/Helpers/ConfirmAllowed.h"
-#include "Common-cpp/inc/Helpers/EndianCorrectCast.h"
-#include "Common-cpp/inc/Helpers/RemoveConst.h"
-#include "Common-cpp/inc/Object.h"
+#include "ArrayLengthType.h"
+#include "ConfirmAllowed.h"
+#include "EndianCorrectCast.h"
+#include "RemoveConst.h"
+#include "Object.h"
 
 namespace ExitGames
 {

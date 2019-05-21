@@ -22,7 +22,7 @@
 #	define TYPENAME(arg) ("?")
 #endif
 
-#include "Common-cpp/inc/JString.h"
+#include "JString.h"
 
 #if !defined _EG_WINDOWS_PLATFORM && !defined _EG_MARMALADE_PLATFORM && !defined _EG_ANDROID_PLATFORM && !defined _EG_BLACKBERRY_PLATFORM && !defined _EG_PS3_PLATFORM && !defined _EG_PS4_PLATFORM && !defined _EG_WINDOWSSTORE_PLATFORM && !defined _EG_EMSCRIPTEN_PLATFORM && !defined _EG_XB1_PLATFORM && !defined _EG_PSVITA_PLATFORM && !defined _EG_SWITCH_WINDOWS_PLATFORM
 #	include <cxxabi.h>

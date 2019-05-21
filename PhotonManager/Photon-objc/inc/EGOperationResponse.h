@@ -6,7 +6,7 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGArray.h"
+#import "EGArray.h"
 
 @interface EGOperationResponse : NSObject
 

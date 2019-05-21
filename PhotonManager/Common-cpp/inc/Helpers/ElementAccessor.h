@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/JString.h"
+#include "JString.h"
 
 namespace ExitGames
 {

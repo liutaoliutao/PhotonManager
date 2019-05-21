@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Photon-cpp/inc/PhotonPeer.h"
-#import "Photon-objc/inc/EGPhotonPeer.h"
+#include "PhotonPeer.h"
+#import "EGPhotonPeer.h"
 
 @interface EGPhotonPeer ()
 

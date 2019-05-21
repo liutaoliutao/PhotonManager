@@ -6,10 +6,10 @@
 
 #pragma once
 
-#include "Common-cpp/inc/JString.h"
-#include "Common-cpp/inc/Helpers/ElementAccessor.h"
-#include "Common-cpp/inc/Helpers/IsDerivedFrom.h"
-#include "Common-cpp/inc/Helpers/SmartPointers/SmartPointerBase.h"
+#include "JString.h"
+#include "ElementAccessor.h"
+#include "IsDerivedFrom.h"
+#include "SmartPointers/SmartPointerBase.h"
 
 namespace ExitGames
 {

@@ -8,7 +8,7 @@
 
 #import <Foundation/NSArray.h>
 #import <Foundation/NSDictionary.h>
-#import "Common-objc/inc/EGArray.h"
+#import "EGArray.h"
 
 @interface EGDictionary : NSDictionary
 

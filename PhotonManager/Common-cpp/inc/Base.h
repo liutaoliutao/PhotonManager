@@ -6,8 +6,8 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Logger.h"
-#include "Common-cpp/inc/MemoryManagement/Allocate.h"
+#include "Logger.h"
+#include "MemoryManagement/Allocate.h"
 
 namespace ExitGames
 {

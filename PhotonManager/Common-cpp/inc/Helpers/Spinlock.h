@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/Helpers/Thread.h"
+#include "Thread.h"
 #ifdef EG_PLATFORM_SUPPORTS_ATOMICS
 #	include <atomic>
 #endif

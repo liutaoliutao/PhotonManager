@@ -6,7 +6,7 @@
 
 #pragma once
 
-#include "Common-cpp/inc/defines.h"
+#include "defines.h"
 
 typedef void* (*CB_CALLOC)(short count, nByte customTypeCode);
 typedef void (*CB_FREE)(const void* pData, nByte customTypeCode);

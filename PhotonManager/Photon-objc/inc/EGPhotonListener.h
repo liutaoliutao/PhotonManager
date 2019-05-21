@@ -6,9 +6,9 @@
 
 #pragma once
 
-#import "Common-objc/inc/EGBaseListener.h"
-#import "Photon-objc/inc/EGEventData.h"
-#import "Photon-objc/inc/EGOperationResponse.h"
+#import "EGBaseListener.h"
+#import "EGEventData.h"
+#import "EGOperationResponse.h"
 
 @protocol EGPhotonListener <EGBaseListener>
 

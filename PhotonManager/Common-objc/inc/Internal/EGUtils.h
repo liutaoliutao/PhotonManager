@@ -8,8 +8,8 @@
 
 #import <Foundation/NSArray.h>
 #import <Foundation/NSDictionary.h>
-#include "Common-cpp/inc/Hashtable.h"
-#import "Common-objc/inc/EGDictionary.h"
+#include "Hashtable.h"
+#import "EGDictionary.h"
 
 @interface EGUtils: EGBase
 
